@@ -1,4 +1,4 @@
-# Mailing-list
+# Mailing-list SQL & Node Web Application
 
 Yeeh (and i can not stress this enough) HAW!
 
