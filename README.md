@@ -12,6 +12,4 @@ The app can take email addresses and add them to a MySQL database as well as dis
 
 <img width="600" alt="NodeWebAppwithSQL" src="https://i.imgur.com/OBdh2sH.jpg">
 
-Cheers, 
-
-jonathan@leuba.me
+Cheers
