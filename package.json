@@ -1,0 +1,33 @@
+{
+  "name": "mailing-list",
+  "version": "1.0.0",
+  "description": "sql tutorial with node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathanleuba/Mailing-list.git"
+  },
+  "keywords": [
+    "sql",
+    "node",
+    "html",
+    "css",
+    "email"
+  ],
+  "author": "Jonathan Leuba, Colt Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathanleuba/Mailing-list/issues"
+  },
+  "homepage": "https://github.com/Jonathanleuba/Mailing-list#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "mysql": "^2.16.0"
+  }
+}
